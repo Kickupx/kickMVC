@@ -67,6 +67,6 @@ This can be seen like a hierarchy:
 
 TODO
 ----
-*Add test cases
-*Add escaping
-*Fix tree native key
+* Add test cases
+* Add escaping
+* Fix tree native key
